@@ -70,10 +70,10 @@ http {
 A protected URL may look something like:
 `http://domain/protected/?token=st=1498386079~exp=1498386379~acl=/protected/*~hmac=3fea342b4b69149f8a34ff709913ad8676a3495172e4ac3f387b23554aa3a761`
 
-Few more samples can be found here: https://github.com/kaltura/nginx-secure-token-module#sample-configurations
+Few more samples can be found here: https://github.com/vidiun/nginx-secure-token-module#sample-configurations
 
 ## Copyright & License
 
 All code in this project is released under the [AGPLv3 license](http://www.gnu.org/licenses/agpl-3.0.html) unless a different license for a particular library is specified in the applicable library path. 
 
-Copyright © Kaltura Inc. All rights reserved.
+Copyright © Vidiun Inc. All rights reserved.
